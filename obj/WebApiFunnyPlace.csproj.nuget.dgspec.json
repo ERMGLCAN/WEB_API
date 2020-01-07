@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\eromerom\\Documents\\Visual Studio 2019\\Projects\\WebApiFunnyPlace\\WebApiFunnyPlace.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eromerom\\Documents\\Visual Studio 2019\\Projects\\WebApiFunnyPlace\\WebApiFunnyPlace.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eromerom\\Documents\\Visual Studio 2019\\Projects\\WebApiFunnyPlace\\WebApiFunnyPlace.csproj",
+        "projectName": "WebApiFunnyPlace",
+        "projectPath": "C:\\Users\\eromerom\\Documents\\Visual Studio 2019\\Projects\\WebApiFunnyPlace\\WebApiFunnyPlace.csproj",
+        "packagesPath": "C:\\Users\\eromerom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eromerom\\Documents\\Visual Studio 2019\\Projects\\WebApiFunnyPlace\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eromerom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Sistemas DVA\\CoreSmartIT\\SmartITWeb\\SmartITWeb\\lib\\dnx451": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0-rc1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

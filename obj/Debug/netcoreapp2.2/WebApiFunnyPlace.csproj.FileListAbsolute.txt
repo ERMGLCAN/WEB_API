@@ -1,0 +1,14 @@
+C:\Users\eromerom\Documents\Visual Studio 2019\Projects\WebApiFunnyPlace\bin\Debug\netcoreapp2.2\WebApiFunnyPlace.deps.json
+C:\Users\eromerom\Documents\Visual Studio 2019\Projects\WebApiFunnyPlace\bin\Debug\netcoreapp2.2\WebApiFunnyPlace.runtimeconfig.json
+C:\Users\eromerom\Documents\Visual Studio 2019\Projects\WebApiFunnyPlace\bin\Debug\netcoreapp2.2\WebApiFunnyPlace.runtimeconfig.dev.json
+C:\Users\eromerom\Documents\Visual Studio 2019\Projects\WebApiFunnyPlace\bin\Debug\netcoreapp2.2\WebApiFunnyPlace.dll
+C:\Users\eromerom\Documents\Visual Studio 2019\Projects\WebApiFunnyPlace\obj\Debug\netcoreapp2.2\WebApiFunnyPlace.csprojAssemblyReference.cache
+C:\Users\eromerom\Documents\Visual Studio 2019\Projects\WebApiFunnyPlace\obj\Debug\netcoreapp2.2\WebApiFunnyPlace.csproj.CoreCompileInputs.cache
+C:\Users\eromerom\Documents\Visual Studio 2019\Projects\WebApiFunnyPlace\obj\Debug\netcoreapp2.2\WebApiFunnyPlace.RazorAssemblyInfo.cache
+C:\Users\eromerom\Documents\Visual Studio 2019\Projects\WebApiFunnyPlace\obj\Debug\netcoreapp2.2\WebApiFunnyPlace.RazorAssemblyInfo.cs
+C:\Users\eromerom\Documents\Visual Studio 2019\Projects\WebApiFunnyPlace\obj\Debug\netcoreapp2.2\WebApiFunnyPlace.AssemblyInfoInputs.cache
+C:\Users\eromerom\Documents\Visual Studio 2019\Projects\WebApiFunnyPlace\obj\Debug\netcoreapp2.2\WebApiFunnyPlace.AssemblyInfo.cs
+C:\Users\eromerom\Documents\Visual Studio 2019\Projects\WebApiFunnyPlace\obj\Debug\netcoreapp2.2\WebApiFunnyPlace.RazorTargetAssemblyInfo.cache
+C:\Users\eromerom\Documents\Visual Studio 2019\Projects\WebApiFunnyPlace\bin\Debug\netcoreapp2.2\WebApiFunnyPlace.pdb
+C:\Users\eromerom\Documents\Visual Studio 2019\Projects\WebApiFunnyPlace\obj\Debug\netcoreapp2.2\WebApiFunnyPlace.dll
+C:\Users\eromerom\Documents\Visual Studio 2019\Projects\WebApiFunnyPlace\obj\Debug\netcoreapp2.2\WebApiFunnyPlace.pdb
